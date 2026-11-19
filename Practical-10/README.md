@@ -1,8 +1,8 @@
 # Practical 10 - Implementation of Kruskal's Algorithm
 
-**Course:** DAA (01AI0506)  
-**Name:** SETTI APALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** K.Raju  
+**Enrollment No:** 92460118432  
+**Course:** Design and Analysis of Algorithms - DAA (01AI0506) 
 
 This practical explains the algorithm with step-by-step trace output, intermediate decisions and complexity analysis.
 
