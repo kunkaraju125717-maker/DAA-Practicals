@@ -1,8 +1,8 @@
 # Practical 8 - Graph Searching using BFS and DFS
 
-**Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** K.Raju  
+**Enrollment No:** 92460118432  
+**Course:** Design and Analysis of Algorithms - DAA (01AI0506) 
 
 This practical implements Breadth First Search with a queue and Depth First Search with an explicit stack in Python. It includes traversal traces, queue and stack tables, visited-set behavior, and complexity analysis.
 
